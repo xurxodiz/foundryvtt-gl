@@ -1,18 +1,16 @@
 # Galician language for Foundry Virtual Tabletop
 
-
     WARNING: this module is not ready for use yet, do not install!
-
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
 * **Version**: 0.7.6.1
 * **Foundry VTT compatibility**: 0.7.6
 
-### Links to translation
+## Links to translation
 * Github: https://github.com/xurxodiz/foundryvtt-gl
 * Manifest: https://github.com/xurxodiz/foundryvtt-gl/raw/master/module.json
 
-### Description
+## Description
 Galician language translations for Foundry VTT modules. In progress.
 
 Install manually as any other module. It's not in the browser yet.
@@ -21,7 +19,7 @@ To enable it, in your world, go to Game Settings > Manage modules and enable the
 
 Afterwards, in your world, go to Game Settings > Configure Settings and change the Language to Galego.
 
-### Contributing
+## Contributing
 
 - Every FoundryVTT package has a JSON file with the strings needed to localize it.
 - Add new files for modules inside an appropriately named folder in the `i18n` directory.
@@ -33,15 +31,14 @@ Afterwards, in your world, go to Game Settings > Configure Settings and change t
 - Pat yourself in the back! Castelao would be proud.
 
 
-### Notes
+## Notes
 
 The `i18n` is kept even after files are "done" so when new versions of modules are released,
 we can paste the new English file over and have diffs, and have the editor warn about missing keys.
 
 It also provides us with a quick way of reviewing translations and making comparisons.
 
-
-### Acknowledgements
+## Acknowledgements
 
 Big thank you to the [Russian translation project](https://github.com/Phenomen/foundry-vtt-ru),
 as the setup with the different folders and gulp pipeline was shameslessly ripped off from them :)
