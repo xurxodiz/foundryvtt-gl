@@ -1,7 +1,7 @@
 {
     "name": "gl",
     "title": "FoundryVTT Galego",
-    "description": "Tradución ao galego de FoundryVTT e os seus módulos.",
+    "description": "Tradución ao galego de FoundryVTT e outros módulos.",
     "version": "0.7.6.1",
     "minimumCoreVersion": "0.7.6",
     "compatibleCoreVersion": "0.7.6",
@@ -15,6 +15,6 @@
         "path": "dist/combined.json"
     }],
     "url": "https://github.com/xurxodiz/foundryvtt-gl",
-    "manifest": "https://github.com/xurxodiz/foundryvtt-gl/raw/main/module.json",
-    "download": "https://github.com/xurxodiz/foundryvtt-gl/archive/main.zip"
+    "manifest": "https://github.com/xurxodiz/foundryvtt-gl/raw/master/module.json",
+    "download": "https://github.com/xurxodiz/foundryvtt-gl/archive/master.zip"
 }

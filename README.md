@@ -35,8 +35,10 @@ Afterwards, in your world, go to Game Settings > Configure Settings and change t
 
 The `i18n` is kept even after files are "done" so when new versions of modules are released,
 we can paste the new English file over and have diffs, and have the editor warn about missing keys.
-
 It also provides us with a quick way of reviewing translations and making comparisons.
+
+Those files are not included in the release archives, so you won't have them take space
+in your server anyway if you install this through the zip file or the official browser.
 
 ## Acknowledgements
 
