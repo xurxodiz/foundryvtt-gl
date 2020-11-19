@@ -3,7 +3,7 @@
     WARNING: this module is not ready for use yet, do not install!
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.6.1
+* **Version**: 0.7.6.2
 * **Foundry VTT compatibility**: 0.7.6
 
 ## Links to translation
