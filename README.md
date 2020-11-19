@@ -1,7 +1,7 @@
 # Galician language for Foundry Virtual Tabletop
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.1
+* **Version**: 0.7.7.2
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -25,11 +25,10 @@ Afterwards, in your world, go to Game Settings > Configure Settings and change t
 - Add new files for modules inside an appropriately named folder in the `i18n` directory.
 - Then use [i18n-editor](https://github.com/andi34/i18n-editor) to open that folder and add a `gl` locale.
 - The editor will show you the original English and (empty) Galician keys side by side.
-- Once a file is translated, copy it into the `source` folder.
-- Then, run [`gulp`](https://gulpjs.com/docs/en/getting-started/quick-start) in the root directory so the `combined.json` resulting file is merged.
-- Create a new branch, commit, push & pull-request.
+- Translate the keys by filling the `gl` textbox for each one.
+- Once done, run `make combine` in the root folder to integrate your additions (you will need [gulp](https://gulpjs.com/docs/en/getting-started/quick-start))
+- Create a new branch, add the new and changed files, commit, push & pull-request.
 - Pat yourself in the back! Castelao would be proud.
-
 
 ## Notes
 

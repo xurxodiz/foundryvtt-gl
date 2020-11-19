@@ -1,5 +1,6 @@
 i18n	export-ignore
 source	export-ignore
+Makefile	export-ignore
 gulpfile.js	export-ignore
 package.json	export-ignore
 README.md	export-ignore
