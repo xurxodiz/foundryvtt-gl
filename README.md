@@ -1,16 +1,16 @@
 # Galician language for Foundry Virtual Tabletop
 
-    WARNING: this module is not ready for use yet, do not install!
-
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.6.2
-* **Foundry VTT compatibility**: 0.7.6
+* **Version**: 0.7.7.1
+* **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
+
 * Github: https://github.com/xurxodiz/foundryvtt-gl
 * Manifest: https://github.com/xurxodiz/foundryvtt-gl/raw/master/module.json
 
 ## Description
+
 Galician language translations for Foundry VTT modules. In progress.
 
 Install manually as any other module. It's not in the browser yet.
