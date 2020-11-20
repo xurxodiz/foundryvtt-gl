@@ -1,7 +1,7 @@
-# Galician language for Foundry Virtual Tabletop
+# FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.2
+* **Version**: 0.7.7.3
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -11,13 +11,14 @@
 
 ## Description
 
-Galician language translations for Foundry VTT modules. In progress.
+Galician translation of core FoundryVTT and other systems and modules.
 
-Install manually as any other module. It's not in the browser yet.
+Pending approval for the module browser. In the meantime, install manually using the manifest URL. 
 
-To enable it, in your world, go to Game Settings > Manage modules and enable the `FoundryVTT Galego` module.
+To enable it in your world, go to Game Settings > Manage modules and enable the `FoundryVTT en Galego` module,
+then go to Game Settings > Configure Settings and change the Language to Galego.
 
-Afterwards, in your world, go to Game Settings > Configure Settings and change the Language to Galego.
+You can also set it as the default language for Foundry in Settings > Default language. Restart needed.
 
 ## Contributing
 
