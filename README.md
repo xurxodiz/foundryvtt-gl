@@ -1,7 +1,7 @@
 # FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.3
+* **Version**: 0.7.7.4
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -20,6 +20,11 @@ then go to Game Settings > Configure Settings and change the Language to Galego.
 
 You can also set it as the default language for Foundry in Settings > Default language. Restart needed.
 
+## Module translations included
+
+- FoundryVTT Core: 0.7.7
+- [FateX](https://github.com/anvil-vtt/FateX): 0.7.9
+
 ## Contributing
 
 - Every FoundryVTT package has a JSON file with the strings needed to localize it.
@@ -31,7 +36,7 @@ You can also set it as the default language for Foundry in Settings > Default la
 - Create a new branch, add the new and changed files, commit, push & pull-request.
 - Pat yourself in the back! Castelao would be proud.
 
-## Notes
+### Notes
 
 The `i18n` is kept even after files are "done" so when new versions of modules are released,
 we can paste the new English file over and have diffs, and have the editor warn about missing keys.
