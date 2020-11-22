@@ -1,7 +1,7 @@
 # FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.4
+* **Version**: 0.7.7.5
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -13,7 +13,7 @@
 
 Galician translation of core FoundryVTT and other systems and modules.
 
-Pending approval for the module browser. In the meantime, install manually using the manifest URL. 
+Available in the integrated module browser (or manually using the manifest URL). 
 
 To enable it in your world, go to Game Settings > Manage modules and enable the `FoundryVTT en Galego` module,
 then go to Game Settings > Configure Settings and change the Language to Galego.
@@ -22,8 +22,8 @@ You can also set it as the default language for Foundry in Settings > Default la
 
 ## Module translations included
 
-- FoundryVTT Core: 0.7.7
-- [FateX](https://github.com/anvil-vtt/FateX): 0.7.9
+- **FoundryVTT Core**: 0.7.7
+- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.7.9
 
 ## Contributing
 
@@ -49,3 +49,5 @@ in your server anyway if you install this through the zip file or the official b
 
 Big thank you to the [Russian translation project](https://github.com/Phenomen/foundry-vtt-ru),
 as the setup with the different folders and gulp pipeline was shameslessly ripped off from them :)
+
+Tip of the hat to [FateX](https://github.com/anvil-vtt/FateX), as I took the Github workflows for releases from that project!
