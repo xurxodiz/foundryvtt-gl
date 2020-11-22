@@ -16,6 +16,11 @@ jobs:
         id: get-version
         run: echo "::set-output name=version::$(node ./.github/workflows/get-version.js)"
 
+      - name: Get current date
+        shell: bash
+        id: get-date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%m')"
+
       - name: Create installable system zip file
         run: zip -r foundryvtt-gl.zip module.json dist
 
@@ -25,5 +30,5 @@ jobs:
         with:
           name: ${{ steps.get-version.outputs.version }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          body: ${{ steps.get-date.outputs.date }}
           artifacts: 'module.json,foundryvtt-gl.zip'
-

@@ -1,13 +1,13 @@
 # FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.5
+* **Version**: 0.7.7.6
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
 
 * Github: https://github.com/xurxodiz/foundryvtt-gl
-* Manifest: https://github.com/xurxodiz/foundryvtt-gl/raw/master/module.json
+* Manifest: https://github.com/xurxodiz/foundryvtt-gl/releases/latest/download/module.json
 
 ## Description
 
