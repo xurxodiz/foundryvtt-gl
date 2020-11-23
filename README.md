@@ -1,7 +1,7 @@
 # FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.6
+* **Version**: 0.7.7.7
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -23,7 +23,7 @@ You can also set it as the default language for Foundry in Settings > Default la
 ## Module translations included
 
 - **FoundryVTT Core**: 0.7.7
-- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.7.9
+- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.8.0
 
 ## Contributing
 
