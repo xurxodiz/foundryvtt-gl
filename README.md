@@ -1,7 +1,7 @@
 # FoundryVTT en Galego
 
 * **Author**: Xurxo Diz Pico [Discord: xurxodiz#5885]
-* **Version**: 0.7.7.7
+* **Version**: 0.7.7.8
 * **Foundry VTT compatibility**: 0.7.7
 
 ## Links to translation
@@ -51,3 +51,4 @@ Big thank you to the [Russian translation project](https://github.com/Phenomen/f
 as the setup with the different folders and gulp pipeline was shameslessly ripped off from them :)
 
 Tip of the hat to [FateX](https://github.com/anvil-vtt/FateX), as I took the Github workflows for releases from that project!
+
