@@ -620,8 +620,8 @@
 	"MODMANAGE.Submit": "Gardar configuración de módulos",
 	"MODMANAGE.Title": "Xestión de módulos",
 	"MODMANAGE.View": "Os módulos abaixo listados son os que están activos agora mesmo neste mundo.",
-	"NOTE.AnchorPoint": "Punto de ancoraxe do texto",
-	"NOTE.ConfigTitle": "Configuración de notas do mapa",
+	"NOTE.AnchorPoint": "Ancoraxe do texto",
+	"NOTE.ConfigTitle": "Configuración da nota no mapa",
 	"NOTE.EntryIcon": "Icona da entrada",
 	"NOTE.FontFamily": "Fonte",
 	"NOTE.FontSize": "Tamaño da fonte",
@@ -1150,5 +1150,11 @@
 	"Width": "Largo",
 	"XCoord": "Coordenada X",
 	"YCoord": "Coordenada Y",
-	"Yes": "Si"
+	"Yes": "Si",
+	"XCard.Authorship": "Cartón X por John Stavropoulos",
+	"XCard.ButtonName": "Cartón X",
+	"XCard.ButtonHint": "Mostra un Cartón X ao MX e a todos os xogadores",
+	"XCard.ButtonFAIcon": "fas fa-times",
+	"XCard.WindowSymbol": "X",
+	"XCard.WindowTitle": "Cartón X"
 }
