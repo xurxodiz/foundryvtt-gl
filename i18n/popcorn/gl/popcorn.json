@@ -1,0 +1,16 @@
+{
+  "Popcorn.ActNow": "Actuar agora?",
+  "Popcorn.ButtonHint": "Mostra o xestor de iniciativa pipoca",
+  "Popcorn.Act": "Actuar",
+  "Popcorn.ButtonName": "Iniciativa pipoca",
+  "Popcorn.Character": "Personaxe",
+  "Popcorn.EndConflict": "Rematar o conflito",
+  "Popcorn.EndingConflict": "Rematou o conflito.",
+  "Popcorn.Exchange": "<h1>Rolda {round}</h1>",
+  "Popcorn.Game": "Partida:",
+  "Popcorn.IsActing": "{name} ten o turno agora.",
+  "Popcorn.NewExchange": "Comeza unha nova rolda.",
+  "Popcorn.NextExchange": "Seguinte rolda",
+  "Popcorn.NoConflicts": "<h1>Non hai conflitos activos!</h1>",
+  "Popcorn.WindowTitle": "Xestor de iniciativa pipoca"
+}

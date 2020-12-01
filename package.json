@@ -4,6 +4,7 @@
         "gulp": "^4.0.2"
     },
     "dependencies": {
+        "gulp-json-sort": "^1.0.0",
         "gulp-merge-json": "^2.1.1",
         "set-blocking": "^2.0.0"
     }
