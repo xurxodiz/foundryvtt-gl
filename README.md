@@ -32,6 +32,9 @@ You can also set it as the default language for Foundry in `Settings > Default l
 - Create a new branch, add the new and changed files, commit, push & pull-request.
 - Pat yourself in the back! Castelao would be proud.
 
+Contributing to this repo entails accepting that the content provided will fall under the global
+license applied to this repo (see further below).
+
 ### Notes
 
 The `i18n` is kept even after files are "done" so when new versions of modules are released,
@@ -51,3 +54,9 @@ Tip of the hat to [FateX](https://github.com/anvil-vtt/FateX), as I took the Git
 ### Contributors
 
 - Xurxo Diz Pico [Discord: xurxodiz#5885]
+
+### License
+
+The content in this repository is covered by a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+(do what you want with it as long as you add a line saying where you got it from.)
+
