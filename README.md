@@ -8,6 +8,8 @@ Galician translation of core FoundryVTT and other systems and modules.
 - **[FateX](https://github.com/anvil-vtt/FateX)**: 0.8.0
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.4
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
+- **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.2
+- **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.3
 
 ## Installation
 
