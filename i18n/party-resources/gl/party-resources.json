@@ -1,0 +1,22 @@
+{
+  "FvttPartyResources.Dashboard.AddButtonTitle": "Incrementar",
+  "FvttPartyResources.Dashboard.BlankWarning": "Os bloques de recursos aparecerán aquí tras seren engadidos.",
+  "FvttPartyResources.Dashboard.DeleteButtonTitle": "Borrar recurso",
+  "FvttPartyResources.Dashboard.EditButtonTitle": "Editar recurso",
+  "FvttPartyResources.Dashboard.MakeInvisibleButtonTitle": "Ocultar este recurso aos xogadores",
+  "FvttPartyResources.Dashboard.MakeVisibleButtonTitle": "Mostrar este recurso aos xogadores",
+  "FvttPartyResources.Dashboard.SubtractButtonTitle": "Decrementar",
+  "FvttPartyResources.FormReset": "Restaurar o formulario",
+  "FvttPartyResources.FormSubmit": "Enviar",
+  "FvttPartyResources.ResourceForm.AddFormTitle": "Engadir novo recurso",
+  "FvttPartyResources.ResourceForm.DefaultValue": "Valor predeterminado",
+  "FvttPartyResources.ResourceForm.DefaultValueHint": "Valor inicial do recurso",
+  "FvttPartyResources.ResourceForm.EditFormTitle": "Editar recurso",
+  "FvttPartyResources.ResourceForm.Identifier": "Identificador do recurso",
+  "FvttPartyResources.ResourceForm.IdentifierHint": "O identificador que representa este recurso nas peticións da API. Non pode contar espazos nin números, e ten que estar en minúsculas.",
+  "FvttPartyResources.ResourceForm.MaxValue": "Valor máximo",
+  "FvttPartyResources.ResourceForm.MaxValueHint": "Se se establece este valor enteiro (é opcional), non poderás incrementar o valor deste recurso por riba del.",
+  "FvttPartyResources.ResourceForm.Name": "Nome do recurso",
+  "FvttPartyResources.ResourceForm.NameHint": "O nome mostrado no taboleiro de recursos.",
+  "FvttPartyResources.Title": "Recursos da banda"
+}
