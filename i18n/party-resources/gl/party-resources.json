@@ -18,5 +18,5 @@
   "FvttPartyResources.ResourceForm.MaxValueHint": "Se se establece este valor enteiro (é opcional), non poderás incrementar o valor deste recurso por riba del.",
   "FvttPartyResources.ResourceForm.Name": "Nome do recurso",
   "FvttPartyResources.ResourceForm.NameHint": "O nome mostrado no taboleiro de recursos.",
-  "FvttPartyResources.Title": "Recursos da banda"
+  "FvttPartyResources.Title": "Recursos do grupo"
 }

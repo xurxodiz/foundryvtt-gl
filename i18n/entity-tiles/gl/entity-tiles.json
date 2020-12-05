@@ -1,4 +1,8 @@
 {
+  "EntityTiles.Settings.HiddenByDefault": "Colocar as teselas ocultas?",
+  "EntityTiles.Settings.LockedByDefault": "Colocar as teselas bloqueadas?",
+  "EntityTiles.Settings.MaxHeight": "Alto máximo da tesela en px (será reescalada)",
+  "EntityTiles.Settings.MaxWidth": "Largo máximo da tesela en px (será reescalada)",
   "EntityTiles.Settings.RequiredKey": "Tecla requerida",
   "EntityTiles.Settings.RequiredKeyHint": "Esta é a tecla que debes manter premida mentres arrastras para converter a entidade nunha tesela cando a soltes no lenzo.",
   "EntityTiles.Keys.Alt": "Alt",

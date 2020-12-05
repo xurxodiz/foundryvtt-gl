@@ -676,6 +676,8 @@
   "SETTINGS.CBubPN": "Pan to Token Speaker",
   "SETTINGS.Configure": "Configure Settings",
   "SETTINGS.Controls": "Controls Reference",
+  "SETTINGS.DevicePixL": "Increase the resolution of the rendered game canvas for high pixel density displays. This will substantially increase the performance requirements for your GPU.",
+  "SETTINGS.DevicePixN": "High Density Pixel Rendering",
   "SETTINGS.Docs": "View Documentation",
   "SETTINGS.DocsHeader": "Help and Documentation",
   "SETTINGS.InfoHeader": "General Information",
@@ -1013,3 +1015,4 @@
   "YCoord": "Y-Coordinate",
   "Yes": "Yes"
 }
+

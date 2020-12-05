@@ -676,13 +676,15 @@
   "SETTINGS.CBubPN": "Moverse á efixie que fala",
   "SETTINGS.Configure": "Configuración",
   "SETTINGS.Controls": "Referencia dos controis",
+  "SETTINGS.DevicePixL": "Aumenta a resolución de renderización do lenzo para as pantallas con alta densidade de píxeles. Isto requerirá significativamente más rendemento por parte da túa GPU.",
+  "SETTINGS.DevicePixN": "Renderizado de píxeles en alta densidade",
   "SETTINGS.Docs": "Ver documentación",
   "SETTINGS.DocsHeader": "Axuda e documentación",
   "SETTINGS.InfoHeader": "Información xeral",
   "SETTINGS.Invite": "Ligazóns de convite",
   "SETTINGS.LClickReleaseL": "Se está activo, un clique esquerdo nalgún lugar baleiro do lenzo soltará calquera elemento controlado nese momento. Se non está activo, podes soltar elementos seleccionando un espazo baleiro, facendo clique canda pulsar maiúsculas, o premendo a tecla de escape.",
-  "SETTINGS.LClickReleaseN": "Clique esquerdo para soltar elementos",
-  "SETTINGS.LangL": "Mudar o idioma de Foundry Virtual Tabletop",
+  "SETTINGS.LClickReleaseN": "Clique para soltar elementos",
+  "SETTINGS.LangL": "Mudar o idioma de Foundry Virtual Tabletop.",
   "SETTINGS.LangN": "Idioma preferente",
   "SETTINGS.Logout": "Desconectar",
   "SETTINGS.ManageModules": "Xerir módulos",
@@ -957,7 +959,7 @@
   "WEBRTC.GeneralTab": "Xeral",
   "WEBRTC.GeneralTabNotGM": "Os parámetros xerais de conferencia audio e vídeo solo poden ser modificados polo MX",
   "WEBRTC.GenericError": "Erro WebRTC:",
-  "WEBRTC.MenuHint": "Define os parámetros específicos do compoñente integrado WebRTC de audio e vídeo",
+  "WEBRTC.MenuHint": "Define os parámetros específicos do compoñente integrado WebRTC de audio e vídeo.",
   "WEBRTC.MenuLabel": "Configurar audio e vídeo",
   "WEBRTC.ModeAudioOnly": "Só audio",
   "WEBRTC.ModeAudioVideo": "Audio e vídeo",
@@ -1013,3 +1015,4 @@
   "YCoord": "Coordenada Y",
   "Yes": "Si"
 }
+

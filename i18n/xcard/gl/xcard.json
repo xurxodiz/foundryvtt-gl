@@ -3,6 +3,10 @@
   "XCard.ButtonName": "Cartón X",
   "XCard.ButtonHint": "Mostra un Cartón X ao MX e a todos os xogadores",
   "XCard.ButtonFAIcon": "fas fa-times",
+  "XCard.Settings.ImageToggleName": "Usar imaxe",
+  "XCard.Settings.ImageToggleHint": "Activa esta opción para mostrar unha imaxe personalizada en vez do símbolo predeterminado.",
+  "XCard.Settings.ImagePathName": "Ruta á imaxe",
+  "XCard.Settings.ImagePathHint": "Selecciona a imaxe a mostrar se 'Usar imaxe' está activado.",
   "XCard.WindowSymbol": "X",
   "XCard.WindowTitle": "Cartón X"
 }
