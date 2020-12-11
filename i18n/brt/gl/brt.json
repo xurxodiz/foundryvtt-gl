@@ -1,0 +1,22 @@
+{
+  "BRT.BetterTable": "Táboa mellorada",
+  "BRT.Currency": "Moeda:",
+  "BRT.CurrencyLoot": "Botín de moedas",
+  "BRT.CurrencyLootPlaceholder": "Engade fórmulas separadas por comas, p.ex.: 1d4[po], (1d4+1)*10[pp]",
+  "BRT.DrawResultPlural": "Obtén {amount} resultados de {name}",
+  "BRT.DrawResultSingular": "Obtén {amount} resultado de {name}",
+  "BRT.DrawResultZero": "Rolando en {name}",
+  "BRT.GenerateLoot.Button": "Xerar botín",
+  "BRT.LootActorName": "Engadir botín ao actor",
+  "BRT.LootActorNamePlaceholder": "Se fica baleiro, creará un novo actor de botín de cada vez",
+  "BRT.LootRollAmount": "Número de roladas",
+  "BRT.LootRollAmountPlaceholder": "Rolar a táboa enteira varias veces",
+  "BRT.Settings.LootSheet.Description": "Podes configurar as fichas de PNX alternativas que debe usar o botín xerado cando se crea",
+  "BRT.Settings.LootSheet.Title": "Ficha a usar polo botín xerado",
+  "BRT.Settings.SpellCompendium.Description": "Podes fixar un compendio de conxuros, e así cando saia un pergamiño nunha táboa de botín (que deberá ter un nome concreto) se escollerá un conxuro aleatorio dese compendio",
+  "BRT.Settings.SpellCompendium.Title": "Compendio de conxuros para os pergamiños aleatorios",
+  "BRT.StoryLoot": "Táboa de historias",
+  "BRT.TypeDefault": "Táboa predeterminada",
+  "BRT.TypeLabel": "Tipo táboa mellorada",
+  "BRT.TypeLoot": "Táboa de botín"
+}
