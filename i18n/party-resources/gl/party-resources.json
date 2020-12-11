@@ -7,7 +7,6 @@
   "FvttPartyResources.Dashboard.MakeVisibleButtonTitle": "Mostrar este recurso aos xogadores",
   "FvttPartyResources.Dashboard.SubtractButtonTitle": "Decrementar",
   "FvttPartyResources.FormReset": "Restaurar o formulario",
-  "FvttPartyResources.FormSubmit": "Enviar",
   "FvttPartyResources.ResourceForm.AddFormTitle": "Engadir novo recurso",
   "FvttPartyResources.ResourceForm.DefaultValue": "Valor predeterminado",
   "FvttPartyResources.ResourceForm.DefaultValueHint": "Valor inicial do recurso",
@@ -18,5 +17,10 @@
   "FvttPartyResources.ResourceForm.MaxValueHint": "Se se establece este valor enteiro (é opcional), non poderás incrementar o valor deste recurso por riba del.",
   "FvttPartyResources.ResourceForm.Name": "Nome do recurso",
   "FvttPartyResources.ResourceForm.NameHint": "O nome mostrado no taboleiro de recursos.",
-  "FvttPartyResources.Title": "Recursos do grupo"
+  "FvttPartyResources.Title": "Recursos do grupo",
+  "FvttPartyResources.FormCreateResource": "Crear recurso",
+  "FvttPartyResources.FormSaveChanges": "Gardar mudanzas",
+  "FvttPartyResources.ResourceForm.PlayerManaged": "Permitir aos xogadores xeriren este recurso",
+  "FvttPartyResources.ResourceForm.PlayerManagedHint": "Activar isto permitirá aos xogadores incrementar/decrementar o valor deste recurso.",
+  "FvttPartyResources.ResourceForm.PlayerManagedRestriction": "Este cadro apenas pode activarse dándolles aos xogadores permiso para modificaren os parámetros."
 }
