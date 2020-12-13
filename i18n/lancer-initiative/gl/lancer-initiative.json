@@ -1,0 +1,17 @@
+{
+  "LancerInitiative.AddActivation": "Engadir activación",
+  "LancerInitiative.RemoveActivation": "Quitar activación",
+  "LancerInitiative.UndoActivation": "Restaurar activación",
+  "LancerInitiative.Settings.PlayerButtonColor": "Cor do botón para xogadores",
+  "LancerInitiative.Settings.PlayerButtonColorHint": "Predeterminado: $44abe0",
+  "LancerInitiative.Settings.NeutralButtonColor": "Cor do botón para neutrais",
+  "LancerInitiative.Settings.NeutralButtonColorHint": "Predeterminado: #146464",
+  "LancerInitiative.Settings.EnemyButtonColor": "Cor do botón para inimigos",
+  "LancerInitiative.Settings.EnemyButtonColorHint": "Predeterminado: #d98f30",
+  "LancerInitiative.Settings.InactiveButtonColor": "Cor do botón para inactivos",
+  "LancerInitiative.Settings.InactiveButtonColorHint": "Predeterminado: #444444",
+  "LancerInitiative.Settings.ActionIcon": "Icono de acción",
+  "LancerInitiative.Settings.ActionIconHint": "Clases de CSS que definen a icona de activación; se necesitas incrementar o tamaño tes dispoñibles li-icon, li-icon-large e li-icon-xlarge",
+  "LancerInitiative.Settings.ActivatedUnitsLast": "Unidades xa activadas ao final",
+  "LancerInitiative.Settings.ActivatedUnitsLastHint": "Move as unidades que xa pasaron o seu turno ao final do xestor."
+}
