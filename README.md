@@ -8,7 +8,7 @@ Galician translation of core FoundryVTT and other systems and modules.
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.4
 - **[FateX](https://github.com/anvil-vtt/FateX)**: 0.8.0
-- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.3.1
+- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.3.0a
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
 - **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
