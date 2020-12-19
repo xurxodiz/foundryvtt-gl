@@ -2,16 +2,28 @@
 
 Galician translation of core FoundryVTT and other systems and modules.
 
-## Module translations included
+## Translations included
 
-- **FoundryVTT Core**: 0.7.8
+### Core
+
+- **FoundryVTT Core**: 0.7.9
+
+### Systems
+
+- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.8.0
+- **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
+
+Tip: a Galician translation for the [Savage Worlds](https://gitlab.com/peginc/savage-worlds-adventure-edition)
+system (as well as for its compendiums and decks) can currently be found included in the
+[Spanish translation module](https://gitlab.com/jvir/foundryvtt-swade-es). You are welcome to help port them here!
+
+### Modules
+
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.4
-- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.8.0
 - **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.3.0a
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
-- **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.3
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.5
 
