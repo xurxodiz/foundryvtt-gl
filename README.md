@@ -23,6 +23,7 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.4
 - **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.3.0a
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
+- **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.7.14
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.3
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.5
