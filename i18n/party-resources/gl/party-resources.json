@@ -3,8 +3,8 @@
   "FvttPartyResources.Dashboard.BlankWarning": "Os bloques de recursos aparecerán aquí tras seren engadidos.",
   "FvttPartyResources.Dashboard.DeleteButtonTitle": "Borrar recurso",
   "FvttPartyResources.Dashboard.EditButtonTitle": "Editar recurso",
-  "FvttPartyResources.Dashboard.MakeInvisibleButtonTitle": "Ocultar este recurso aos xogadores",
-  "FvttPartyResources.Dashboard.MakeVisibleButtonTitle": "Mostrar este recurso aos xogadores",
+  "FvttPartyResources.Dashboard.MakeInvisibleButtonTitle": "Ocultar este recurso aos participantes",
+  "FvttPartyResources.Dashboard.MakeVisibleButtonTitle": "Mostrar este recurso aos participantes",
   "FvttPartyResources.Dashboard.SubtractButtonTitle": "Decrementar",
   "FvttPartyResources.FormReset": "Restaurar o formulario",
   "FvttPartyResources.ResourceForm.AddFormTitle": "Engadir novo recurso",
@@ -20,7 +20,7 @@
   "FvttPartyResources.Title": "Recursos do grupo",
   "FvttPartyResources.FormCreateResource": "Crear recurso",
   "FvttPartyResources.FormSaveChanges": "Gardar mudanzas",
-  "FvttPartyResources.ResourceForm.PlayerManaged": "Permitir aos xogadores xeriren este recurso",
-  "FvttPartyResources.ResourceForm.PlayerManagedHint": "Activar isto permitirá aos xogadores incrementar/decrementar o valor deste recurso.",
-  "FvttPartyResources.ResourceForm.PlayerManagedRestriction": "Este cadro apenas pode activarse dándolles aos xogadores permiso para modificaren os parámetros."
+  "FvttPartyResources.ResourceForm.PlayerManaged": "Permitir a todo o mundo xerir este recurso",
+  "FvttPartyResources.ResourceForm.PlayerManagedHint": "Activar isto permitirá a todo o mundo incrementar/decrementar o valor deste recurso.",
+  "FvttPartyResources.ResourceForm.PlayerManagedRestriction": "Este cadro apenas pode activarse dándolle a todo o grupo permiso para modificaren os parámetros."
 }
