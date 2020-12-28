@@ -25,6 +25,7 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
 - **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.7.14
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
+- **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.1.0
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.3
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.5
 
