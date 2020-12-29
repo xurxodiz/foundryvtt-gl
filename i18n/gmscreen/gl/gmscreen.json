@@ -1,0 +1,21 @@
+{
+  "GMSCR.Grid": "Grella",
+  "GMSCR.cellConfigDialog.CellConfig": "Configuración de celas",
+  "GMSCR.cellConfigDialog.ColSpan": "Colunas a abranguer",
+  "GMSCR.cellConfigDialog.RowSpan": "Ringleiras a abranguer",
+  "GMSCR.gmScreen.ClearCell": "Limpar cela",
+  "GMSCR.gmScreen.Open": "Pantalla da DX",
+  "GMSCR.gmScreen.OpenFull": "Abrir a ficha de entidade enteira",
+  "GMSCR.gmScreen.Refresh": "Recargar",
+  "GMSCR.gmScreen.Reset": "Limpar grella",
+  "GMSCR.settings.columns.Name": "Columnas",
+  "GMSCR.settings.columns.Hint": "Cantas columnas queres? Mudalo pode requerir limpar a grella.",
+  "GMSCR.settings.display-as-drawer.Name": "Mostrar como caixón",
+  "GMSCR.settings.display-as-drawer.Hint": "Mostrar a pantalla da DX como un caixón na parte inferior da pantalla, en troques dun diálogo normal. Se queres usar PopOut, pon isto a falso.",
+  "GMSCR.settings.reset.Name": "Restaurar",
+  "GMSCR.settings.reset.Hint": "Limpa as entradas da grella. Non se pode desfacer.",
+  "GMSCR.settings.rows.Name": "Ringleiras",
+  "GMSCR.settings.rows.Hint": "Cantas ringleiras queres? Mudalo pode requerir limpar a grella.",
+  "GMSCR.warnings.clearConfirm.Title": "Limpar grella",
+  "GMSCR.warnings.clearConfirm.Content": "Tes a certeza de querer limpar as entradas da grella? Non se pode desfacer."
+}

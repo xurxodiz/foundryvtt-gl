@@ -2,7 +2,7 @@
     "name": "foundryvtt-gl",
     "title": "FoundryVTT en Galego",
     "description": "Galician translation of core FoundryVTT and other systems and modules.",
-    "version": "0.7.9.4",
+    "version": "0.7.9.5",
     "minimumCoreVersion": "0.7.6",
     "compatibleCoreVersion": "0.7.9",
     "author": "Xurxo Diz Pico (xurxodiz#5885)",

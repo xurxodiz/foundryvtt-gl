@@ -1,0 +1,21 @@
+{
+  "GMSCR.Grid": "Grid",
+  "GMSCR.gmScreen.ClearCell": "Clear Cell",
+  "GMSCR.gmScreen.Open": "GM Screen",
+  "GMSCR.gmScreen.OpenFull": "Open the full Entity Sheet",
+  "GMSCR.gmScreen.Refresh": "Refresh",
+  "GMSCR.gmScreen.Reset": "Clear Grid",
+  "GMSCR.settings.columns.Name": "Columns",
+  "GMSCR.settings.columns.Hint": "How many columns do you want? Changing this may require a grid clear.",
+  "GMSCR.settings.rows.Name": "Rows",
+  "GMSCR.settings.rows.Hint": "How many rows do you want? Changing this may require a grid clear.",
+  "GMSCR.settings.reset.Name": "Reset",
+  "GMSCR.settings.reset.Hint": "Clear the Grid entries. This action can not be undone.",
+  "GMSCR.settings.display-as-drawer.Name": "Display as Drawer",
+  "GMSCR.settings.display-as-drawer.Hint": "Display the GM Screen as a drawer on the bottom of the screen, as opposed to a normal dialog. If you want to use PopOut, set this to false.",
+  "GMSCR.warnings.clearConfirm.Title": "Clear Grid",
+  "GMSCR.warnings.clearConfirm.Content": "Are you sure you want to clear the grid entries? This action can not be undone.",
+  "GMSCR.cellConfigDialog.CellConfig": "Cell Configuration",
+  "GMSCR.cellConfigDialog.RowSpan": "Rows to Span",
+  "GMSCR.cellConfigDialog.ColSpan": "Columns to Span"
+}

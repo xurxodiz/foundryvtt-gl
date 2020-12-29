@@ -13,5 +13,12 @@
   "LANCERINITIATIVE.ActivatedLastDesc": "Move as unidades que xa pasaron o seu turno ao final do xestor.",
   "LANCERINITIATIVE.AddActivation": "Engadir activación",
   "LANCERINITIATIVE.RemoveActivation": "Quitar activación",
-  "LANCERINITIATIVE.UndoActivation": "Restaurar activación"
+  "LANCERINITIATIVE.UndoActivation": "Restaurar activación",
+  "LANCERINITIATIVE.EnableInitiative": "Activar rolada de iniciativa",
+  "LANCERINITIATIVE.EnableInitiativeDesc": "Engade un botón a combatentes baixo control para rolar iniciativa",
+  "LANCERINITIATIVE.IconPreview": "Vista previa da icona",
+  "LANCERINITIATIVE.IconSettingsMenu": "Parámetros da icona",
+  "LANCERINITIATIVE.IconSize": "Tamaño da icona",
+  "LANCERINITIATIVE.SortTracker": "Ordenar o xestor",
+  "LANCERINITIATIVE.SortTrackerDesc": "Move a unidade do turno actual á parte superior do xestor e move as unidades que xa tomaron o seu turno ao fondo do xestor."
 }

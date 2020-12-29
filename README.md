@@ -21,9 +21,11 @@ system (as well as for its compendiums and decks) can currently be found include
 
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.4
-- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.3.0a
+- **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.0.1
+- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.4.5-dev
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
 - **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.7.14
+- **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.10
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.0
 - **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.1.0
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.3
