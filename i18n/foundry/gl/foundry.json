@@ -94,7 +94,7 @@
   "CONTROLS.CanvasPan": "Moverte polo lenzo",
   "CONTROLS.CanvasSelect": "Seleccionar elemento",
   "CONTROLS.CanvasSelectCancel": "Cancelar arrastre",
-  "CONTROLS.CanvasSelectMany": "Engadir ou retirar os elemento seleccionados",
+  "CONTROLS.CanvasSelectMany": "Engadir ou quitar os elementos seleccionados",
   "CONTROLS.CanvasZoom": "Achegar/afastar vista",
   "CONTROLS.ClearAll": "Borrar todos os elementos",
   "CONTROLS.ClearAllHint": "Borrar permanentemente da escena todos os elementos de tipo {type}?",
