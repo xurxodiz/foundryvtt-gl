@@ -1,0 +1,10 @@
+{
+  "DRAGON_FLAGON.Nav_NavigateMenuItem": "Navegar",
+  "DRAGON_FLAGON.Nav_SettingOnClick": "Navegar ao premer na escena",
+  "DRAGON_FLAGON.Nav_SettingOnClickHint": "Cando se prema nunha escena na barra lateral, navégase a ela (isto está sempre activo para as xogadoras). ACTUALÍZASE NO SEGUINTE TROCO DE ESCENA.",
+  "DRAGON_FLAGON.Nav_SettingOnClickHintPC": "(require recargar) Permite ás xogadores usar a lapela de Escenas para navegaren por elas.",
+  "DRAGON_FLAGON.Nav_SettingOnClickPC": "Activar lapela de Escenas para as xogadoras",
+  "DRAGON_FLAGON.Thumbnail_Button": "Explorar ficheiros",
+  "DRAGON_FLAGON.Thumbnail_Hint": "Ruta da miniatura",
+  "DRAGON_FLAGON.Thumbnail_Label": "Sobreescribir a imaxe de previsualización"
+}

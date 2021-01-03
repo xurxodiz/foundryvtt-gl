@@ -20,9 +20,12 @@ system (as well as for its compendiums and decks) can currently be found include
 ### Modules
 
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
+- **[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)**: 2.1.7
+- **[DF Scene Enhancement](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-scene-enhance)**: 2.4
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.4
 - **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.0.1
-- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.4.5-dev
+- **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.5.0
+- **[Moar folders](https://github.com/KayelGee/moar-folders)**: 1.0.3
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.0
 - **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.7.14
 - **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.10
