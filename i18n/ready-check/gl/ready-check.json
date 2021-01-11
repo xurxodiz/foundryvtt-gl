@@ -14,7 +14,7 @@
   "READYCHECK.PlayerReady": "Conforme",
   "READYCHECK.SettingsChatMessagesForChecksHint": "Actívao para mostrar unha mensaxe de chat cando alguén responda coa súa conformidade.",
   "READYCHECK.SettingsChatMessagesForChecksTitle": "Mostrar mensaxes de chat ao comprobar conformidade",
-  "READYCHECK.SettingsChatMessagesForUserUpdatesHint": "Actívao para mostrar mensaxe de chat cando alguén mude a súa conformidade fóra dunha comprobación.",
+  "READYCHECK.SettingsChatMessagesForUserUpdatesHint": "Actívao para mostrar unha mensaxe de chat cando alguén mude a súa conformidade fóra dunha comprobación.",
   "READYCHECK.SettingsChatMessagesForUserUpdatesTitle": "Mostrar mensaxes de actualización de conformidade",
   "READYCHECK.StatusNotReady": "Non conforme",
   "READYCHECK.StatusReady": "Conforme",
