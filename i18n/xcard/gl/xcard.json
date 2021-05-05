@@ -1,12 +1,12 @@
 {
   "XCard.Authorship": "Cartón X por John Stavropoulos",
-  "XCard.ButtonName": "Cartón X",
-  "XCard.ButtonHint": "Mostra un Cartón X á DX e xogadoras",
   "XCard.ButtonFAIcon": "fas fa-times",
-  "XCard.Settings.ImageToggleName": "Usar imaxe",
-  "XCard.Settings.ImageToggleHint": "Activa esta opción para mostrar unha imaxe personalizada en vez do símbolo predeterminado.",
-  "XCard.Settings.ImagePathName": "Ruta á imaxe",
+  "XCard.ButtonHint": "Mostra un Cartón X á DX e xogadoras",
+  "XCard.ButtonName": "Cartón X",
   "XCard.Settings.ImagePathHint": "Selecciona a imaxe a mostrar se 'Usar imaxe' está activado.",
+  "XCard.Settings.ImagePathName": "Ruta á imaxe",
+  "XCard.Settings.ImageToggleHint": "Activa esta opción para mostrar unha imaxe personalizada en vez do símbolo predeterminado.",
+  "XCard.Settings.ImageToggleName": "Usar imaxe",
   "XCard.WindowSymbol": "X",
   "XCard.WindowTitle": "Cartón X"
 }

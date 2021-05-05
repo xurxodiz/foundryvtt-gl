@@ -7,7 +7,7 @@
   "Popcorn.EndConflict": "End this conflict",
   "Popcorn.EndingConflict": "Ending the conflict.",
   "Popcorn.Exchange": "<h1>Exchange {round}</h1>",
-  "Popcorn.Game": "Game:",
+  "Popcorn.Game": "Game: ",
   "Popcorn.IsActing": "{name} is acting now.",
   "Popcorn.NewExchange": "Starting a new exchange.",
   "Popcorn.NextExchange": "Next Exchange",

@@ -1,12 +1,12 @@
 {
   "XCard.Authorship": "X-Card by John Stavropoulos",
-  "XCard.ButtonName": "X-Card",
-  "XCard.ButtonHint": "Display an X-Card to the GM and all players",
   "XCard.ButtonFAIcon": "fas fa-times",
-  "XCard.Settings.ImageToggleName": "Use picture",
-  "XCard.Settings.ImageToggleHint": "Enable this to display a custom picture instead of the default symbol.",
-  "XCard.Settings.ImagePathName": "Path to image",
+  "XCard.ButtonHint": "Display an X-Card to the GM and all players",
+  "XCard.ButtonName": "X-Card",
   "XCard.Settings.ImagePathHint": "Select the picture to display if 'Use picture' is enabled.",
+  "XCard.Settings.ImagePathName": "Path to image",
+  "XCard.Settings.ImageToggleHint": "Enable this to display a custom picture instead of the default symbol.",
+  "XCard.Settings.ImageToggleName": "Use picture",
   "XCard.WindowSymbol": "X",
   "XCard.WindowTitle": "X-Card"
 }
