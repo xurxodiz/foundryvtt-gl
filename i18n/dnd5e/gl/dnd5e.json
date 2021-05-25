@@ -308,7 +308,7 @@
   "DND5E.HitDice": "Dados de golpe",
   "DND5E.HitDiceRoll": "Rolar dados de golpe",
   "DND5E.HitDiceUsed": "Dados de golpe utilizados",
-  "DND5E.HitDiceWarn": "{name} non posúe dados de golpe {formula} remanescentes!",
+  "DND5E.HitDiceWarn": "A {name} non lle quedan dados de golpe {formula}!",
   "DND5E.Ideals": "Ideais",
   "DND5E.Identified": "Identificado",
   "DND5E.Initiative": "Iniciativa",
