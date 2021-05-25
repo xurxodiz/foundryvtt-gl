@@ -10,6 +10,7 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Systems
 
+- **[DnD 5e](https://gitlab.com/foundrynet/dnd5e)**: 1.3.2
 - **[FateX](https://github.com/anvil-vtt/FateX)**: 1.0.0
 - **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
 
@@ -22,7 +23,6 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
 - **[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)**: 2.2.41
 - **[DF Scene Enhancement](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-scene-enhance)**: 3.3.3
-- **[DnD 5e](https://gitlab.com/foundrynet/dnd5e)**: 1.3.2
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.6
 - **[Fate Aspect Tracker](https://github.com/Galdormin/FoundryVTT-Fate-Aspect-Tracker)**: 0.5.0
 - **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.4.0
@@ -81,9 +81,9 @@ Tip of the hat to [FateX](https://github.com/anvil-vtt/FateX), as I took the Git
 ### Contributors
 
 - Xurxo Diz Pico [Discord: xurxodiz#5885]
+- A comunidade das [Irmandades do Dado](https://irmandadesdodado.fala.gal/)
 
 ### License
 
 The content in this repository is covered by a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 (do what you want with it as long as you add a line saying where you got it from.)
-

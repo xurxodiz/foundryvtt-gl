@@ -7,7 +7,7 @@
   "FvttPartyResources.Dashboard.MakeVisibleButtonTitle": "Mostrar este recurso ás xogadoras",
   "FvttPartyResources.Dashboard.SubtractButtonTitle": "Decrementar",
   "FvttPartyResources.FirstTimeNotification": "Benvida a <strong>Party Resources v{version}</strong>!<br>É a primeira vez que usas este módulo.<br>{anchor} Para seres levada ao panel de recursos.",
-  "FvttPartyResources.GMSettingsForm.ShowActorsButtonForPlayers": "Mostrar o botón dos Recursos de Grupo.",
+  "FvttPartyResources.GMSettingsForm.ShowActorsButtonForPlayers": "Mostrar o botón",
   "FvttPartyResources.GMSettingsForm.ShowActorsButtonForPlayersHint": "Se estiver desmarcado, as xogadoras xa non poderán ver o botón dos Recursos do Grupo na parte superior do directorio de actores. Só a DX poderá velo e premelo.",
   "FvttPartyResources.ResourceForm.AddFormTitle": "Engadir novo recurso",
   "FvttPartyResources.ResourceForm.AllowPlayersToModifySettings": "Permitir ás xogadoras mudaren os parámetros de configuración",
