@@ -6,7 +6,7 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Core
 
-- **FoundryVTT Core**: 0.7.9
+- **FoundryVTT Core**: 0.7.10
 
 ### Systems
 
@@ -30,7 +30,7 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Moar folders](https://github.com/KayelGee/moar-folders)**: 1.0.3
 - **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.5.1
 - **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.8.3
-- **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.10
+- **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.11
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.2
 - **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.2.0
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.5

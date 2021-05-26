@@ -1996,7 +1996,7 @@
   "SETUP.PackageFilter": "Filtrar paquetes",
   "SETUP.PackageFilterHint": "Podes filtrar os paquetes dispoñibles por nome.",
   "SETUP.PackageHasDependencies": "O paquete que instalaches ten {number} dependencias que ainda non están instaladas.",
-  "SETUP.PackageInstallDependencies": "Pode que non poidas usar este paquete mentres estas dependencias non estean presentes. Queres instalalas automáticamente?",
+  "SETUP.PackageInstallDependencies": "É posible que non poidas usar este paquete mentres estas dependencias non estean presentes. Queres instalalas automáticamente?",
   "SETUP.PackageInstalled": "Instalado",
   "SETUP.PackageNotOwned": "Por mercar",
   "SETUP.PackageUpdateBlocked": "Hai unha actualización dispoñible para {name}, pero non se pode instalar porque require a versión de plataforma {vreq} e estás a usar a versión {vcur} actualmente.",
