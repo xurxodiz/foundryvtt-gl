@@ -23,7 +23,7 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.7
 - **[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)**: 2.2.44
 - **[DF Scene Enhancement](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-scene-enhance)**: 3.4.0
-- **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.6
+- **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.2.0
 - **[Fate Aspect Tracker](https://github.com/Galdormin/FoundryVTT-Fate-Aspect-Tracker)**: 0.6.0
 - **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.6.0
 - **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.5.1
