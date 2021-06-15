@@ -3,7 +3,9 @@
   "Header.Override.Import": "Import",
   "Header.Override.Sheet": "Sheet",
   "Header.Override.Token": "Token",
-  "I18N.MAINTAINERS": "PakkiSukibe",
+  "I18N.MAINTAINERS": [
+    "PakkiSukibe"
+  ],
   "Theatre.Emote.Ambitious": "Ambitious",
   "Theatre.Emote.Angry": "Angry",
   "Theatre.Emote.Annoyed": "Annoyed",

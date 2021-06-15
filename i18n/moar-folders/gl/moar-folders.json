@@ -1,0 +1,4 @@
+{
+  "MF.SettingFolderDepth": "Máxima profundidade de cartafoles",
+  "MF.SettingFolderDepthHint": "Fixar este parámetro incrementará a profundidade máxima dos cartafoles (predeterminado: 3). Recarga a páxina (F5) para que as mudanzas teñan efecto. Pode causar problemas de rendemento e interface, así que vai con sentidiño."
+}

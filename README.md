@@ -6,12 +6,12 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Core
 
-- **FoundryVTT Core**: 0.7.10
+- **FoundryVTT Core**: 0.8.6
 
 ### Systems
 
-- **[DnD 5e](https://gitlab.com/foundrynet/dnd5e)**: 1.3.2
-- **[FateX](https://github.com/anvil-vtt/FateX)**: 1.0.0
+- **[DnD 5e](https://gitlab.com/foundrynet/dnd5e)**: 1.3.3
+- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.11.3
 - **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
 
 **Tip**: a Galician translation for the [Savage Worlds](https://gitlab.com/peginc/savage-worlds-adventure-edition)
@@ -20,20 +20,20 @@ system (as well as for its compendiums and decks) can currently be found include
 
 ### Modules
 
-- **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.4
-- **[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)**: 2.2.41
-- **[DF Scene Enhancement](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-scene-enhance)**: 3.3.3
+- **[Better Roll Tables](https://github.com/ultrakorne/better-rolltables)**: 1.6.7
+- **[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)**: 2.2.44
+- **[DF Scene Enhancement](https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-scene-enhance)**: 3.4.0
 - **[Entity Tiles](https://github.com/xurxodiz/foundryvtt-entity-tiles)**: 0.1.6
-- **[Fate Aspect Tracker](https://github.com/Galdormin/FoundryVTT-Fate-Aspect-Tracker)**: 0.5.0
-- **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.4.0
+- **[Fate Aspect Tracker](https://github.com/Galdormin/FoundryVTT-Fate-Aspect-Tracker)**: 0.6.0
+- **[GM Screen](https://github.com/ElfFriend-DnD/foundryvtt-gmScreen)**: 2.6.0
 - **[Lancer Initiative](https://github.com/BoltsJ/lancer-initiative)**: 0.5.1
-- **[Moar folders](https://github.com/KayelGee/moar-folders)**: 1.0.3
-- **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.1.5.1
+- **[Moar folders](https://github.com/KayelGee/moar-folders)**: 1.1.0
+- **[Party Resources](https://github.com/davelens/fvtt-party-resources)**: 1.2.2
 - **[PDFoundry](https://github.com/Djphoenix719/PDFoundry)**: 0.8.3
-- **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.11
+- **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.12
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.2
-- **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.2.0
-- **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.1.5
+- **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.2.2
+- **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.16.2
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.7
 
 ## Installation

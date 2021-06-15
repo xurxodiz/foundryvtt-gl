@@ -4,6 +4,8 @@
   "GMSCR.cellConfigDialog.ColSpan": "Colunas a abranguer",
   "GMSCR.cellConfigDialog.RowSpan": "Ringleiras a abranguer",
   "GMSCR.gmScreen.ClearCell": "Limpar cela",
+  "GMSCR.gmScreen.ConfigureCell": "Configurar columnas e ringleiras a abranguer",
+  "GMSCR.gmScreen.EmptyCellHint": "Arrastra e solta unha entrada de diario, unha táboa aleatoria ou un obxecto desde o mundo ou un compendio.",
   "GMSCR.gmScreen.Open": "Pantalla da DX",
   "GMSCR.gmScreen.OpenFull": "Abrir a ficha de entidade enteira",
   "GMSCR.gmScreen.OpenPlayer": "Pantalla de xogadora",
