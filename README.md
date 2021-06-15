@@ -6,7 +6,7 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Core
 
-- **FoundryVTT Core**: 0.8.6
+- **FoundryVTT Core**: 0.8.7
 
 ### Systems
 
