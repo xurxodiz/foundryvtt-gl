@@ -34,7 +34,7 @@
   "CF.folderDialogDescriptionL1": "Calquera compendio marcado será incluído neste cartafol.",
   "CF.folderDialogDescriptionL2": "Un compendio só pode pertencer a un cartafol.",
   "CF.folderDialogDescriptionL3": "Marcar compendios xa asignados a outros cartafoles moveraos aquí.",
-  "CF.folderIcon": "Icono do cartafol",
+  "CF.folderIcon": "Icona do cartafol",
   "CF.folderImportFailure": "Fallou a importación de datos de cartafol",
   "CF.folderImportMaxDepth": "A cadea importada contén cartafoles que exceden o límite máximo de cartafoles",
   "CF.folderImportSuccess": "Os datos de cartafoles importaronse con éxito",

@@ -33,6 +33,7 @@ system (as well as for its compendiums and decks) can currently be found include
 - **[Pings](https://gitlab.com/foundry-azzurite/pings)**: 1.2.12
 - **[Popcorn](https://github.com/Sk1mble/Popcorn)**: 1.2.2
 - **[Ready Set Go!](https://github.com/crash1115/ready-check)**: 1.2.2
+- **[Safety Tools](https://github.com/SpectralCiphers/safety-tools)**: 0.2.2
 - **[Theatre](https://github.com/League-of-Foundry-Developers/fvtt-module-theatre)**: 1.16.2
 - **[X-Card](https://github.com/Sk1mble/XCard)**: 0.0.7
 
