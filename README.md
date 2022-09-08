@@ -6,13 +6,13 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Core
 
-- **FoundryVTT Core**: 0.8.7
+- **FoundryVTT Core**: 10.284
 
 ### Systems
 
-- **[DnD 5e](https://gitlab.com/foundrynet/dnd5e)**: 1.3.3
-- **[FateX](https://github.com/anvil-vtt/FateX)**: 0.11.3
-- **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.40
+- **[DnD 5e](https://github.com/foundryvtt/dnd5e)**: 1.3.3
+- **[FateX](https://github.com/anvil-vtt/FateX)**: 1.0.1
+- **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.7.1
 
 **Tip**: a Galician translation for the [Savage Worlds](https://gitlab.com/peginc/savage-worlds-adventure-edition)
 system (as well as for its compendiums and decks) can currently be found included in the

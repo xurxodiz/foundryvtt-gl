@@ -3,7 +3,7 @@ name: FoundryVTT-gl CI
 on: 
   push:
     tags:
-    - '0.*'
+    - 'v*'
 
 jobs:
   build:
