@@ -1,5 +1,5 @@
 {
-    "name": "foundryvtt-gl",
+    "id": "foundryvtt-gl",
     "title": "FoundryVTT en Galego",
     "description": "Galician translation of core FoundryVTT and other systems and modules.",
     "authors": [
@@ -8,10 +8,10 @@
             "discord": "xurxodiz#5885"
         }
     ],
-    "version": "10.284.1",
+    "version": "10.284.2",
     "compatibility": {
-        "minimum": "10",
-        "verified": "10"
+        "minimum": "10.284",
+        "verified": "10.284"
     },
     "scripts": [],
     "styles": [],
