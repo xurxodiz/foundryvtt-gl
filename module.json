@@ -8,19 +8,17 @@
             "discord": "xurxodiz#5885"
         }
     ],
-    "version": "10.284.2",
+    "version": "10.284.3",
     "compatibility": {
         "minimum": "10.284",
         "verified": "10.284"
     },
-    "scripts": [],
-    "styles": [],
-    "packs": [],
     "languages": [{
         "lang": "gl",
         "name": "Galego",
         "path": "dist/combined.json"
     }],
+    "coreTranslation": true,
     "url": "https://github.com/xurxodiz/foundryvtt-gl",
     "manifest": "https://github.com/xurxodiz/foundryvtt-gl/releases/latest/download/module.json",
     "download": "https://github.com/xurxodiz/foundryvtt-gl/releases/latest/download/foundryvtt-gl.zip"
