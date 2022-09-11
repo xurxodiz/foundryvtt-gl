@@ -10,7 +10,7 @@ Galician translation of core FoundryVTT and other systems and modules.
 
 ### Systems
 
-- **[DnD 5e](https://github.com/foundryvtt/dnd5e)**: 1.3.3
+- **[DnD 5e](https://github.com/foundryvtt/dnd5e)**: 2.0.2
 - **[FateX](https://github.com/anvil-vtt/FateX)**: 1.0.1
 - **[Simple Worldbuilding System](https://gitlab.com/foundrynet/worldbuilding)**: 0.7.1
 
