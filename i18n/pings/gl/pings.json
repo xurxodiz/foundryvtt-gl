@@ -12,7 +12,7 @@
   "pings.settings.mouseButton.hint": "O botón do rato que se ten que premer durante un certo tempo (configurable máis abaixo) para realizar un ping. 0 = esquerdo, 1 = medio, 2 = dereito. Preme o botón que desexes (con modificadores como maiúsculas/control se quixeres) neste campo; usa a tecla de escape para limpalo.",
   "pings.settings.mouseButton.title": "Botón do rato a premer para ping",
   "pings.settings.mouseButtonDuration.hint": "O tempo en milisegundos que tes que manter premido o botón do rato ata que se realice un ping.",
-  "pings.settings.mouseButtonDuration.title": "Tempo a premer o botñón do rato",
+  "pings.settings.mouseButtonDuration.title": "Tempo a premer o botón do rato",
   "pings.settings.mouseButtonMove.hint": "O botón do rato que se ten que premer durante un tempo (configurable máis abaixo) para realizar un ping que tamén mova as pantallas do resto a ese ping. 0 = esquerdo, 1 = medio, 2 = dereito. Preme o botón do rato que desexes (con modificadores como maiúsculas/control) neste campo; usa a tecla de escape para limpalo.",
   "pings.settings.mouseButtonMove.title": "Botón do rato para ping que move pantallas",
   "pings.settings.rotate.hint": "Se a imaxe do ping debe rotar.",
